@@ -1,0 +1,1 @@
+To run the test use **gradle test** command or run *CatalogTestRunner.java*
