@@ -19,6 +19,7 @@ dependencies {
 
     implementation group: 'io.cucumber', name: 'cucumber-java', version: '7.2.3'
     implementation group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.13.2'
+    implementation group: 'commons-io', name: 'commons-io', version: '2.11.0'
 
     compileOnly 'org.projectlombok:lombok:1.18.22'
     annotationProcessor 'org.projectlombok:lombok:1.18.22'
